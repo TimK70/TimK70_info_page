@@ -10,7 +10,7 @@ Hi, I'm Tim Krassowski. Check out my repos!
 
 | Project Name        |  Web Page                                                          | Link                                                             |
 |---------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
-| mtc-infra-prod     |  [Webpage](https://morethancertified.github.io/mtc-infra-prod/)   | [GitHub](https://github.com/morethancertified/mtc-infra-prod.git)    |
+| mtc-infra-prod      |  [Webpage](https://TimK70.github.io/mtc-infra-prod/)               | [GitHub](https://github.com/TimK70/mtc-infra-prod.git)    |
 
 ---
 
