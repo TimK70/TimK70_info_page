@@ -2,7 +2,7 @@
 
 ## About Me
 
-<img src="https://github.com/account" style="width: 10%; height: auto;">
+<img src="https://github.com/account" style="width: 30%; height: auto;">
 
 Hi, I'm Tim Krassowski. Check out my repos!
 
